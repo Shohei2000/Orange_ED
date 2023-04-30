@@ -1,0 +1,31 @@
+/*     table,tr,th,td */
+    table,tr,th,td{
+        border:1px solid;
+        text-align:center;
+    }
+/*     table */
+    table{
+        width:100%;
+    }
+/*     th */
+    th,td{
+        height:3vw;
+        padding:1vw;
+    }
+
+
+    .th1,.th5{
+        width:5%;
+    }
+    .th2{
+        width:15%;
+    }
+    .th3{
+        width:33%;
+    }
+    .th4{
+        width:35%;
+    }
+    .th6{
+        width:7%;
+    }
